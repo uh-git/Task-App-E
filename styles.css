@@ -1,43 +1,58 @@
-.box{
-	width: 722px;
-    height: 139px;
-    padding: 4px 8px 4px 8px;
-    background: #ffffff;
-    color: #000000;
-    border-color: #232323;
-    border-width: 1px;
-    border-style: solid;
-    border-radius: 3px 3px 3px 3px;
-    font-family: "Helvetica";
-    font-weight: bold;
-    font-size: 14px;
-    text-align: left;}
-
-.Movement{
-    padding: 20px 300px;}
-
- .Task{   
-    width: 180px;
-    height: 32px;
-    padding: 4px 8px 4px 8px;
-    background: #ffffff;
-    color: #000000;
-    border-color: #232323;
-    border-width: 1px;
-    border-style: solid;
-    border-radius: 3px 3px 3px 3px;
-    font-family: "Helvetica";
-    font-weight: 400;
-    font-size: 14px;
-    text-align: left;}
- 
-    .Info1{
-        padding: 50px 120px;}
+body{
+    background: lavenderblush;
+  }
+  
+  
+  .box{
+      width: 100%;
+    min-width: 300px;
+    float: right;
+    margin-right: 35px;
+    margin-left: 35px;
+      height: 120px;
+      padding: 4px 8px 4px 8px;
+      background: #ffffff;
+      color: #000000;
+      border-color: #232323;
+      border-width: 1px;
+      border-style: solid;
+      border-radius: 3px 3px 3px 3px;
+      font-family: "Helvetica";
+      font-weight: bold;
+      font-size: 14px;
+      text-align: left;}
+  
+  .Movement{
+      padding: 20px 300px;}
+  
+  .Task{   
+      width: 180px;
+      height: 32px;
+      padding: 4px 8px 4px 8px;
+      background: #ffffff;
+      color: #000000;
+      border-color: #232323;
+      border-width: 1px;
+      border-style: solid;
+      border-radius: 3px 3px 3px 3px;
+      font-family: "Helvetica";
+      font-weight: 400;
+      font-size: 14px;
+      text-align: left;}
+   
+  .Info1{
+      padding: 50px 120px;}
+      
+  .Info2{
+     padding: 20px 120px;}
+  
+  .Info3{
+      padding: 50px 120px;}
+      
+   
     
-     .Info2{
-        padding: 20px 120px;}
-
-     .Info3{
-        padding: 50px 120px;}
-    
+  .card-body, .col-3{
+    margin-bottom: 20px;
+  
+  }
     
